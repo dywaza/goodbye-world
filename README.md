@@ -1,5 +1,5 @@
 # goodbye-world
-People keep writing "hello world" programs, but the inverse name is so much darker and depressing.
+People keep writing "hello world" programs, but the inverse name is so much darker.
 
 
 this is a file where i can write about myself while i try to learn how to use github.
