@@ -4,8 +4,11 @@ using namespace std;
 
 int main()
 {
-    printf("Goodbye, world");
-    printf("\n*bang*");
+    for (i = 0; i < 1; i++) 
+    {
+        printf("Goodbye, world");
+        printf("\n*bang*");
+    }
 
     return 0;
 }
